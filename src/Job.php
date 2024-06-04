@@ -15,8 +15,10 @@ class Job
         "Schauspieler"
     ];
 
+    /*
     public function getRandomJob()
     {
         return $this->jobs[array_rand($this->jobs,1)];
     }
+    */
 }
